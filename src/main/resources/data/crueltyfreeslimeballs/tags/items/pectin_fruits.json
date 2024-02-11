@@ -1,7 +1,7 @@
 {
   "replace": false,
   "values" : [
-    "minecraft:apples",
+    "minecraft:apple",
     {"id": "byg:green_apple", "required": false},
     {"id": "#c:fruits/oranges", "required": false},
     {"id": "#c:fruits/lemons", "required": false},
