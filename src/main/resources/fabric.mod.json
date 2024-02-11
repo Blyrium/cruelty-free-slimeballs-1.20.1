@@ -2,7 +2,7 @@
 	"schemaVersion": 1,
 	"id": "crueltyfreeslimeballs",
 	"version": "${version}",
-	"name": "Cruelty Free Slimeballs",
+	"name": "Cruelty-Free Slimeballs",
 	"description": "Adds three recipes for crafting slimeballs, based on carrageenan, pectin, and xanthan gum.",
 	"authors": [
 		"Blyrium"
