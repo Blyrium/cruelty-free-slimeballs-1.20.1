@@ -1,3 +1,5 @@
+# Cruelty-Free Slimeballs
+
 _This mod is a port of_ [_Vampycat237's_ Cruelty-Free Slimeballs _datapack._](https://github.com/vampycat237/mc-crueltyfreeslimeballs)
 
 Finding slimes to loot slimeballs is annoying, but it doesn't have to be this way! Introducing _Cruelty-Free Slimeballs_, a mod that makes slimeballs craftable.
@@ -22,4 +24,4 @@ _Wheat can be replaced by sugar cane or a bucket of milk._
 
 Tested with Fabric API 0.91.0+1.20.1
 
-This mod is provided "as is". I am not planning on adding any mod support or to update/backport this mod to a different version of Minecraft. You're free to do so yourself, however.
+This mod is provided "as is". It should technically work on all 1.20.X versions of the game. I am not planning to update/backport this mod to a different version of Minecraft. You're free to do so yourself, however.
