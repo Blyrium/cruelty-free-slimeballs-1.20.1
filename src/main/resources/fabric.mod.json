@@ -18,9 +18,6 @@
 		"main": [
 			"net.blyrium.crueltyfreeslimeballs.CrueltyFreeSlimeballs"
 		],
-		"client": [
-			"net.blyrium.crueltyfreeslimeballs.CrueltyFreeSlimeballsClient"
-		],
 		"fabric-datagen": [
 			"net.blyrium.crueltyfreeslimeballs.CrueltyFreeSlimeballsDataGenerator"
 		]
