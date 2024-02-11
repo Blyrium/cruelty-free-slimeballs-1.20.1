@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values" : [
+    "minecraft:apples",
+    {"id": "byg:green_apple", "required": false},
+    {"id": "#c:fruits/oranges", "required": false},
+    {"id": "#c:fruits/lemons", "required": false},
+    {"id": "#c:fruits/limes", "required": false},
+    {"id": "#c:fruits/grapefruits", "required": false},
+    {"id": "#c:fruits/kumquat", "required": false}
+  ]
+}
