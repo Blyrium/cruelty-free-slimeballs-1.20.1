@@ -3,13 +3,13 @@
 	"id": "crueltyfreeslimeballs",
 	"version": "${version}",
 	"name": "Cruelty Free Slimeballs",
-	"description": "This is an example description!",
+	"description": "Adds three recipes for crafting slimeballs, based on carrageenan, pectin, and xanthan gum.",
 	"authors": [
 		"Blyrium"
 	],
 	"contact": {
-		"homepage": "https://github.com/Blyrium",
-		"sources": "https://github.com/Blyrium/GITHUB-MOD-LINK"
+		"homepage": "https://modrinth.com/mod/cruelty-free-slimeballs",
+		"sources": "https://github.com/Blyrium/cruelty-free-slimeballs-1.20.1"
 	},
 	"license": "MIT",
 	"icon": "assets/crueltyfreeslimeballs/icon.png",
