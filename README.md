@@ -1,6 +1,6 @@
 # Cruelty-Free Slimeballs
 
-_This mod is a port of_ [_Vampycat237's_ Cruelty-Free Slimeballs _datapack._](https://github.com/vampycat237/mc-crueltyfreeslimeballs)
+_This mod is a port of_ [_Vampycat237's_ Cruelty-Free Slimeballs _datapack_](https://github.com/vampycat237/mc-crueltyfreeslimeballs) _([license](https://creativecommons.org/licenses/by-nc/3.0/legalcode.en))._ 
 
 Finding slimes to loot slimeballs is annoying, but it doesn't have to be this way! Introducing _Cruelty-Free Slimeballs_, a mod that makes slimeballs craftable.
 
