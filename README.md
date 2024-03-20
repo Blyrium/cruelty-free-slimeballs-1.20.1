@@ -25,3 +25,5 @@ _Wheat can be replaced by sugar cane or a bucket of milk._
 Tested with Fabric API 0.91.0+1.20.1
 
 This mod is provided "as is". It should technically work on all 1.20.X versions of the game. I am not planning to update/backport this mod to a different version of Minecraft. You're free to do so yourself, however.
+
+![CC BY-NC 4.0 license logo](https://cdn.modrinth.com/data/cached_images/ce984febd449feed93952f541888a0c610899369.png)
